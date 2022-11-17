@@ -1,0 +1,33 @@
+
+c
+java:S1192a"MDefine a constant instead of duplicating this literal " INNER JOIN " 3 times.(¯¢É°
+i
+java:S1192_"NDefine a constant instead of duplicating this literal " INNER  JOIN " 3 times.(¦ÕÏ¡øÿÿÿÿ
+c
+java:S11929"HDefine a constant instead of duplicating this literal " WHERE " 5 times.(ƒô°‘şÿÿÿÿ
+j
+java:S11929"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(ƒô°‘şÿÿÿÿ
+^
+java:S22592"HA "NullPointerException" could be thrown; "connection" is nullable here.(İÌï
+^
+java:S22594"HA "NullPointerException" could be thrown; "connection" is nullable here.(ôêÂœ
+e
+java:S2095:"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤ŸµÚ
+e
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ğÂ¶
+j
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µÜÛúÿÿÿÿ
+f
+java:S2095¤"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(™ŒÛÇ
+j
+java:S2095F"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆş••üÿÿÿÿ
+c
+java:S2095“"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+j
+java:S2095d"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Õ‘„àøÿÿÿÿ
+j
+java:S2095{"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Õ‘„àøÿÿÿÿ
+v
+java:S1450"[Remove the "dbConnection" field and declare it as a local variable in the relevant methods.(ÍĞÑéúÿÿÿÿ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
